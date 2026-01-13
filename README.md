@@ -31,7 +31,6 @@ I'm a developer passionate about building secure and scalable web applications. 
 
 ---
 
-### 📫 Connect with Me
+### 📫 Professional Contact
 
 *   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-presente-90b8923a5/)
-*   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.presente@aluno.ifsp.edu.br)
