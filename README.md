@@ -24,8 +24,8 @@ I'm a developer passionate about building secure and scalable web applications. 
 **[Baixaki2](https://github.com/FelipePresente/Baixaki2)**
 > *A secure, production-ready full-stack game management platform.*
 
-*   **Architecture & Data:** Migrated to a scalable **MongoDB** cluster with Mongoose for strict schema validation and data integrity.
-*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Role-Based Access Control (Admin Dashboard), and CRUD operations.
+*   **Architecture & Data:** Built with a scalable **MongoDB** cluster and Mongoose for strict schema validation and data integrity.
+*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Password Hashing (**Bcrypt**), Role-Based Access Control (Admin Dashboard), and CRUD operations.
 *   **Standards:** Implements Clean Code principles (Early Return) and professional REST API status codes.
 *   **Tech:** Node.js, Express, MongoDB, Tailwind CSS.
 
