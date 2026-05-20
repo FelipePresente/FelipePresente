@@ -28,7 +28,7 @@ I'm a developer passionate about building secure and scalable web applications. 
 *   **Architecture & Data:** Single Page Application (SPA) built with **React** and **TypeScript**, powered by **MongoDB Atlas** and **Mongoose** for reliable data persistence.
 *   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Task CRUD with **HTML sanitization** (Sanitize-HTML), and a custom **Hook-based** calendar grid system.
 *   **Standards:** Modular middleware architecture, Type-safe communication between client/server, and mobile-first responsive design.
-*   **Tech:** React, TypeScript, Node.js, Express, MongoDB, Tailwind CSS 4.
+*   **Tech:** React, Tailwind CSS, Spring Boot, MySQL.
 
 ---
 
