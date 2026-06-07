@@ -1,6 +1,6 @@
 # Hi there, I'm Felipe Presente! 👋
 
-### Full Stack Developer | Computer Science Student
+### Full Stack Developer | IT technician
 
 I'm a developer passionate about building secure and scalable web applications. Currently focused on mastering the Node.js ecosystem, database architecture, and backend security.
 
