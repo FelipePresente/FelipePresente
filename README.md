@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | IT technician
 
-I'm a developer passionate about building secure and scalable web applications. Currently focused on mastering the Node.js ecosystem, database architecture, and backend security.
+I'm a developer passionate about building secure and scalable web applications. Currently focused on mastering the Node.js and Spring Boot ecosystems, database architecture, and backend security.
 
 ---
 
@@ -10,12 +10,12 @@ I'm a developer passionate about building secure and scalable web applications. 
 
 <p align="left">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white" />
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
@@ -25,9 +25,9 @@ I'm a developer passionate about building secure and scalable web applications. 
 **[Calendallica](https://github.com/FelipePresente/Calendallica)**
 > *A high-performance productivity tool merging visual calendars with task management.*
 
-*   **Architecture & Data:** Single Page Application (SPA) built with **React** and **TypeScript**, powered by **MongoDB Atlas** and **Mongoose** for reliable data persistence.
-*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Task CRUD with **HTML sanitization** (Sanitize-HTML), and a custom **Hook-based** calendar grid system.
-*   **Standards:** Modular middleware architecture, Type-safe communication between client/server, and mobile-first responsive design.
+*   **Architecture & Data:** Single Page Application (SPA) built with **React** and **Spring Boot**, powered by **MySQL** and **Spring Data JPA** for reliable data persistence.
+*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Task CRUD with **HTML sanitization**, and a custom **Hook-based** calendar grid system.
+*   **Standards:** Modular middleware architecture, safe data types and mobile-first responsive design.
 *   **Tech:** React, Tailwind CSS, Spring Boot, MySQL.
 
 ---
