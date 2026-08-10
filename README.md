@@ -26,8 +26,8 @@ I'm a developer passionate about building secure and scalable web applications. 
 > *A high-performance productivity tool merging visual calendars with task management.*
 
 *   **Architecture & Data:** Single Page Application (SPA) built with **React** and **Spring Boot**, powered by **MySQL** and **Spring Data JPA** for reliable data persistence.
-*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), Task CRUD with **HTML sanitization**, and a custom **Hook-based** calendar grid system.
-*   **Standards:** Modular middleware architecture, safe data types and mobile-first responsive design.
+*   **Key Features:** Secure Authentication (JWT + HttpOnly Cookies), management of tasks and goals, and a custom **Hook-based** calendar grid system.
+*   **Standards:** Clean modular architecture, safe data types and mobile-first responsive design.
 *   **Tech:** React, Tailwind CSS, Spring Boot, MySQL.
 
 ---
